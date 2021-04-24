@@ -8,8 +8,9 @@
 * 📫 How to reach me: instagram, Facebook
 * 😄 Pronouns: She
 * ⚡ Fun fact: Anything you would like to know?
-
-
+* Learing: Programming
+* Currently working on Milestone 3...
+* Hobby: Playing games
 
 <!--
 **lylee0/lylee0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
