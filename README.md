@@ -1,16 +1,7 @@
 ### Hi there 👋
 
-* 🔭 I’m currently working on AIST2602...
-* 🌱 I’m currently learning AIST
-* 👯 I’m looking to collaborate on nothing...
-* 🤔 I’m looking for help with the project
-* 💬 Ask me about anything
-* 📫 How to reach me: instagram, Facebook
-* 😄 Pronouns: She
-* ⚡ Fun fact: Anything you would like to know?
-* Learing: Programming
-* Currently working on Milestone 3...
-* Hobby: Playing games
+* 🔭 I’m currently working on New Font Generation from Chinese Calligraphy...
+* 🌱 I’m currently learning Deep Learning in images and music...
 
 <!--
 **lylee0/lylee0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
